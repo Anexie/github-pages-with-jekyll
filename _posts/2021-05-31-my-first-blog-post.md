@@ -1,5 +1,7 @@
+---
 title: "DEVTECH BLOG"
 date: 2021-05-31
+---
 # WHY I STARTED MY TECH JOURNEY
 ## Introduction
 Most people(For most people),their journeys in tech begin with a genuine interest/curiosity about   computers or just tech in general.That was not the case for me,i honestly do not recall a time where i  had any interest whatsoever in tech.
